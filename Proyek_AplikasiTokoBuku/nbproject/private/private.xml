@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="tugaspbo">
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewAdmin.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewTransaksi.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/modell/ModelBuku.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/database/Connectivity.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewRegister.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/modell/ModelLoginReg.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/image/search1.png</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/controller/ControllerBuku.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewLogin.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewTableRiwayat.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/Main.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/controller/ControllerLoginReg.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/controller/ControllerRiwayat.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewInputBuku.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/modell/ModelTransaksi.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewTable.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewMenu.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/controller/ControllerMenu.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/controller/ControllerTransaksi.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewUpdate.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/view/ViewTableBuku.java</file>
+            <file>file:/D:/SMSTR4/PBO/Proyek_AplikasiTokoBuku/src/modell/ModelRiwayat.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewInputBuku.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/modell/ModelRiwayat.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewUpdate.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/controller/ControllerMenu.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/controller/ControllerTransaksi.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/modell/ModelLoginReg.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewTransaksi.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewTable.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewLogin.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/modell/ModelTransaksi.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/controller/ControllerBuku.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewRegister.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/Main.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/modell/ModelBuku.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewTableRiwayat.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewMenu.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewAdmin.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/controller/ControllerRiwayat.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/database/Connectivity.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/controller/ControllerLoginReg.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Dokumen/NetBeansProjects/Proyek_AplikasiTokoBuku/src/view/ViewTableBuku.java</file>
+        </group>
+    </open-files>
+</project-private>
